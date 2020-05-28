@@ -25,3 +25,6 @@ scrapy runspider CAMINHO/ARQUIVO.py
 ```
 scrapy crawl NOME_SPIDER -o NOME_ARQUIVO.json
 ```
+
+## Tutorial Flask
+[Link Tutorial](https://github.com/cod-go/fundamentos-flask)
