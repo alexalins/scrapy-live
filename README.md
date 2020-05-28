@@ -21,7 +21,7 @@ scrapy genspider NOME LINK
 scrapy runspider CAMINHO/ARQUIVO.py
 ```
 
-## Exportando (CSV, JSON or XML)
+## Exportando (CSV, JSON ou XML)
 ```
 scrapy crawl NOME_SPIDER -o NOME_ARQUIVO.json
 ```
